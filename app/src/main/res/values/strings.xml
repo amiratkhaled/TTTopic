@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TTTopic</string>
+
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">Ddo5yTv9Ld4O2fxoIzwbh285f</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">9qmVZWVVWOOeSzdc6oqAid1n5GhLYISbczlLMoHOLXlJKgytRr</string>
+
+    <color name="Twitter_blue">#c0deed</color>
+
+</resources>
